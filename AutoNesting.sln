@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoNesting", "AutoNesting\AutoNesting.csproj", "{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Debug|x64.Build.0 = Debug|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Release|x64.ActiveCfg = Release|Any CPU
+		{D75BDCDD-FE3E-4B0D-8509-B09331682FF8}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1B0138-10F4-42E2-BC9B-A9E432E4F813}
+	EndGlobalSection
+EndGlobal
